@@ -5,7 +5,7 @@
       <paths name="dy@tvstorm-ai.asuscomm.com:12222">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/pycharm_project_811" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
